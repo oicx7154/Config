@@ -1,3 +1,6 @@
+更新/Update
+修复Dropdown无法获取value的问题/Fix Dropdown can't get value
+
 使用这个Config库/Use this Config Lib First
 ```lua
 local ConfigLibrary =loadstring(game:HttpGet("https://raw.githubusercontent.com/oicx7154/Config/refs/heads/main/Config.luau"))()
