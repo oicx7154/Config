@@ -91,6 +91,7 @@ function ConfigLibrary:Load(configName)
         if element then
             task.spawn(function()
                 if element.Set then pcall(function() element:Set(value) end)
+                elseif element.Select then pcall(function() element:Select(value) end)
                 elseif element.SetValue then pcall(function() element:SetValue(value) end)
                 end
             end)
